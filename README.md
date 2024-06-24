@@ -1,1 +1,1 @@
-# Yoga Master Server
+#Magi 
